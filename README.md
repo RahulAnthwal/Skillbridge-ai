@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red)
-![Status](https://img.shields.io/badge/Status-Active-success)
+
 
 # Overview
 SkillBridge is an intelligent Multi-Agent System designed to act as a personalized career mentor. By orchestrating a team of specialized AI agents, it analyzes a user's current skill set against their target role to generate data-driven transition roadmaps.
