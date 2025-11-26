@@ -12,7 +12,7 @@ SkillBridge is an intelligent Multi-Agent System designed to act as a personaliz
 *   Context-Aware Memory: Utilizes a shared state architecture, allowing agents to build upon previous insights during the session.
 
 # Architecture
-The system is built on a modular **Agentic Workflow**:
+The system is built on a modular Agentic Workflow:
 
 1.  Analysis Layer: Evaluates user proficiency and compares it with market requirements.
 2.  Retrieval Layer: Specific tools are used to locate educational content and salary data.
